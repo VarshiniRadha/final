@@ -120,7 +120,7 @@
 
 .smart{
     padding-top: 30px;
-    background-image: url(./assets/background.jpg);
+    background-image: url(background.jpg);
     height: 850px;
     width: 100%;
     display:flex;
